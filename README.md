@@ -1,4 +1,4 @@
-# Desenvolvendo um Sistema de Gerenciamento de Pessoas em API REST com Spring
+# Sistema de Gerenciamento de Pessoas em API REST com Spring Boot
 
 ##### Descrição:
 - Aprenda a construir do zero uma API REST com Spring Boot para cadastro e gerenciamento de pessoas de uma organização, até o deploy na nuvem (Heroku). 
